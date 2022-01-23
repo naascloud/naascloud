@@ -4,7 +4,7 @@
 - We develop and deliver solutions following the well-architected framework.
 - We Identify areas of improvement in various technology service domains.
 
-##OUR AREA OF FOCUS LIES IN THE BELOW TECHNOLOGIES:
+## OUR AREA OF FOCUS LIES IN THE BELOW TECHNOLOGIES:
 
 ### Services:
 - Remote work
