@@ -8,24 +8,24 @@
 
 ### Services:
 - Remote work
-- Cloud services and computing.
-- Server Virtualization.
+- Cloud services and computing
+- Server Virtualization
 - Docker and Kubernetes
 - Backup & Disaster Recovery
 - Monitoring and Automation
-- Emails and migrations.
+- Emails and migrations
 - Business applications
-- Backup and Disaster recovery.
-- Networking and Cybersecurity.
+- Backup and Disaster recovery
+- Networking and Cybersecurity
 
 ### Infrastructure:
 - Microsoft Azure
 - Microsoft 365 (Formally Office365)
-- Amazon Web Services.
-- Google Cloud Platform.
-- Digital Ocean.
-- Microsoft Windows Server and Desktop.
-- Linux and Unix.
+- Amazon Web Services
+- Google Cloud Platform
+- Digital Ocean
+- Microsoft Windows Server and Desktop
+- Linux and Unix
 
 ### Programming Languages:
-- Go, Python, and Bash.
+- Go, Python, and Bash
